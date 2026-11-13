@@ -3,6 +3,8 @@
 QueryGen AI is a full-stack web application that converts natural-language questions into PostgreSQL queries using OpenAI. Users can upload CSV files, import their data into Neon PostgreSQL, generate SQL queries using AI, execute queries, view results, and save query history.
 
 ---
+<img width="1877" height="1008" alt="image" src="https://github.com/user-attachments/assets/a2a96c9e-16e4-4fc0-adc1-87015e5809c1" />
+## live url:https://querygen-ai-five.vercel.app/
 
 ## 1. Project Overview
 
